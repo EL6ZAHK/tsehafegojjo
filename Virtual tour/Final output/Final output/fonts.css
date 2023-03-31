@@ -1,0 +1,42 @@
+@font-face {
+   font-family: "Agency FB";
+   src: url("fonts/Agency FB Bold.woff") format("woff"), url("fonts/Agency FB Bold.eot") format("embedded-opentype"), url("fonts/Agency FB Bold.TTF") format("truetype"), url("fonts/Agency FB Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Agency FB";
+   src: url("fonts/Agency FB.woff") format("woff"), url("fonts/Agency FB.eot") format("embedded-opentype"), url("fonts/Agency FB.TTF") format("truetype"), url("fonts/Agency FB.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bahnschrift";
+   src: url("fonts/Bahnschrift.woff") format("woff"), url("fonts/Bahnschrift.eot") format("embedded-opentype"), url("fonts/Bahnschrift.ttf") format("truetype"), url("fonts/Bahnschrift.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Calibri";
+   src: url("fonts/Calibri.woff") format("woff"), url("fonts/Calibri.eot") format("embedded-opentype"), url("fonts/Calibri.ttf") format("truetype"), url("fonts/Calibri.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Calibri";
+   src: url("fonts/Calibri Bold.woff") format("woff"), url("fonts/Calibri Bold.eot") format("embedded-opentype"), url("fonts/Calibri Bold.ttf") format("truetype"), url("fonts/Calibri Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Calibri";
+   src: url("fonts/Calibri Italic.woff") format("woff"), url("fonts/Calibri Italic.eot") format("embedded-opentype"), url("fonts/Calibri Italic.ttf") format("truetype"), url("fonts/Calibri Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Calibri";
+   src: url("fonts/Calibri Bold Italic.woff") format("woff"), url("fonts/Calibri Bold Italic.eot") format("embedded-opentype"), url("fonts/Calibri Bold Italic.ttf") format("truetype"), url("fonts/Calibri Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
